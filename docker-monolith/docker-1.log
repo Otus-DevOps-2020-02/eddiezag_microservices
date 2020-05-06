@@ -1,1 +1,6 @@
-#
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+eddiezag/ubuntu-tmp-file   latest              4f93bd821479        9 days ago          64.2MB
+ubuntu                     16.04               005d2078bdfa        12 days ago         125MB
+ubuntu                     18.04               c3c304cb4f22        12 days ago         64.2MB
+nginx                      latest              602e111c06b6        12 days ago         127MB
+hello-world                latest              bf756fb1ae65        4 months ago        13.3kB
