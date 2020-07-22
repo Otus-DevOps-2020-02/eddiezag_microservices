@@ -1,1 +1,4 @@
 monitoring/
+docker/
+docker-monolith/
+src/
