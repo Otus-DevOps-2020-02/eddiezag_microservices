@@ -1,7 +1,0 @@
-docker-monolith/
-LICENSE
-.pre-commit-config.yaml
-README.md
-.travis.yml
-.git/
-.github/
